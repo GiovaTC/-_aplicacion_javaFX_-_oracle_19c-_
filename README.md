@@ -2,6 +2,8 @@
 
 <img width="1024" height="1024" alt="ChatGPT Image 2 oct 2025, 14_23_25" src="https://github.com/user-attachments/assets/5ac42c86-e998-45ed-8918-e8f0cb63d5f1" />         
 
+<img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/1008be28-e202-4ffb-8731-8e279b51aa26" />         
+
 📌 Aplicación JavaFX + Oracle 19c :
 
 Proyecto en IntelliJ con Maven para gestionar registros en una base de datos Oracle mediante procedimientos almacenados .
