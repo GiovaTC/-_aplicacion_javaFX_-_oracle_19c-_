@@ -1,4 +1,5 @@
 module com.example.oracleregistros {
+    requires java.sql;        // Necesario para Connection, DriverManager, ResultSet, etc.
     requires javafx.controls;
     requires javafx.fxml;
 
